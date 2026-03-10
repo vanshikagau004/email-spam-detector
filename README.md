@@ -165,10 +165,19 @@ jupyter notebook
 
 ## 📈 Future Improvements
 
-* Add a web interface using Flask or Streamlit
-* Improve preprocessing techniques
-* Use deep learning models for better accuracy
-* Deploy the model as an online application
+The following improvements will be implemented in the next version of the project:
+
+* Implement advanced **text preprocessing**
+
+  * Lowercase conversion
+  * Removing punctuation
+  * Removing stopwords
+  * Stemming or lemmatization
+* Experiment with additional machine learning models
+* Improve feature engineering
+* Build a web interface for real-time spam detection
+* Deploy the model as an interactive application
+
 
 ---
 
