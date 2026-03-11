@@ -162,6 +162,17 @@ jupyter notebook
 5. Run the notebook `spam_detector.ipynb`
 
 ---
+## Live Demo
+
+Try the application here:
+
+https://email-spam-detector-lkdeebjwsqs6v2tbmtcbme.streamlit.app/
+
+---
+<img width="1532" height="883" alt="Screenshot 2026-03-11 150454" src="https://github.com/user-attachments/assets/08f5bafa-a284-4379-81fe-92586421d755" />
+<img width="1797" height="863" alt="Screenshot 2026-03-11 150558" src="https://github.com/user-attachments/assets/d25b2ac2-85a8-459d-a0fe-decc0bee8468" />
+
+
 
 ## 📈 Future Improvements
 
