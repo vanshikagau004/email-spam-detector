@@ -5,8 +5,8 @@ st.title("Email Spam Detector")
 
 st.write("Enter a message to check if it is Spam or Not Spam.")
 
-model = pickle.load(open("model/spam_model.pkl", "rb"))
-vectorizer = pickle.load(open("model/vectorizer.pkl", "rb"))
+model = pickle.load(open("spam_model.pkl", "rb"))
+vectorizer = pickle.load(open("vectorizer.pkl", "rb"))
 
 message = st.text_area("Enter your message")
 
@@ -22,4 +22,5 @@ if st.button("Predict"):
             st.success("This message is NOT SPAM")
 
     else:
+
         st.warning("Please enter a message")
